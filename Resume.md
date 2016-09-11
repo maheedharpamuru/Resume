@@ -47,5 +47,5 @@ HDMI (High-Definition Multimedia Interface) is a proprietary audio/video interfa
 Education
 ---------
 2005-2009
-:   Bachelor of Engineering in Electronics and Communication Engineering (September 2005 - July 2009)
+:   Bachelor of Engineering in Electronics and Communication Engineering (September 2005 - July 2009)  
 Jawaharlal Nehru Technological University, India
