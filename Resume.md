@@ -1,3 +1,4 @@
+
 Manjusha Manchikalapudi
 ============
 
@@ -12,6 +13,7 @@ Manjusha Manchikalapudi
   **Databases Technologies**:   Oracle, Hibernate, JDBC  
   **IDEs**:                    Eclipse   
   **Testing Frameworks**:       TestNG    
+  **AWS Technologies**:    SNS, SQS, DynamoDB
 
 Experience
 ----------
@@ -27,7 +29,7 @@ Arana Platform automates the process of behavioural model creation, generation, 
 
 **Silicon Image Inc. India (Jan 2012 – January 2014)**  
 **Position: Senior Analog Mixed Signal Design Engineer**  
-**Project: MHL3**   
+**Project: MHL3**    
 Mobile High-Definition Link is an industry standard for a mobile audio/video interface that allows consumers to connect mobile phones, tablets, and other portable consumer electronics devices to high-definition televisions and audio receivers  
  
 **Role**  
@@ -44,8 +46,27 @@ HDMI (High-Definition Multimedia Interface) is a proprietary audio/video interfa
 **Role**    
 * Designed different circuits for HDMI product and ported to different technologies using different foundries.
 
+Personal Projects
+------------------
+**Google PageRank Implementation in Java**
+[Github](https://github.com/mamanjusha/PageRank)
+
+* Have implemented [Google Page Rank](https://en.wikipedia.org/wiki/PageRank) in Java
+
+**Document Indexer and Retrieval engine on Wikipedia in Java**
+[Github](https://github.com/mamanjusha/WikiSearch)
+
+* The main goal of the project is to create a fast and efficient document indexer and retrieval engine for Wikipedia
+
+**Notification App using AWS technologies**
+
+* Working on simple notification app which collects user information as input and notifies users with emails.
+* Have used Dynamo DB to store customer information, Dynamo DB streams and SimpleNotificationService(SNS) combination 
+to notify users.
+
+
 Education
 ---------
 2005-2009
-:   Bachelor of Engineering in Electronics and Communication Engineering (September 2005 - July 2009)  
+:   Bachelor of Engineering in Electronics and Communication Engineering (September 2005 - July 2009)
 Jawaharlal Nehru Technological University, India
