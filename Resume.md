@@ -19,7 +19,7 @@
 **Cloud:** Amazon Web Services (S3, SNS, SQS, DynamoDB, Route53 and Lambda), Microsoft Azure (Machine Learning)
 
 ### Certifications
- Microsoft Professional Program Certificate in Data Science__
+ Microsoft Professional Program Certificate in Data Science<br/>
  edX verified certificate for Querying with Transact-SQL__
  edX verified certificate for Analyzing and Visualizing Data with Power BI__
  edX verified certificate for Programming with Python for Data Science__
