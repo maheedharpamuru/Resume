@@ -19,12 +19,12 @@
 **Cloud:** Amazon Web Services (S3, SNS, SQS, DynamoDB, Route53 and Lambda), Microsoft Azure (Machine Learning)
 
 ### Certifications
- Microsoft Professional Program Certificate in Data Science.
- edX verified certificate for Querying with Transact-SQL.
- edX verified certificate for Analyzing and Visualizing Data with Power BI.
- edX verified certificate for Programming with Python for Data Science.
- edX verified certificate for Principles of Machine Learning.
- edX verified certificate for Implementing Predictive Solutions with Spark in HDInsight.
+ Microsoft Professional Program Certificate in Data Science__
+ edX verified certificate for Querying with Transact-SQL__
+ edX verified certificate for Analyzing and Visualizing Data with Power BI__
+ edX verified certificate for Programming with Python for Data Science__
+ edX verified certificate for Principles of Machine Learning__
+ edX verified certificate for Implementing Predictive Solutions with Spark in HDInsight__
 ### Experience
 **Microsoft Professional Data Scientist Program, Redmond, WA (February 2017 – April 2017)**
 *	The coursework contained modules to develop skills in data manipulation using T-SQL and visualization using Excel, Power BI, and Python.
