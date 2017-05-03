@@ -19,7 +19,6 @@
 **Cloud:** Amazon Web Services (S3, SNS, SQS, DynamoDB, Route53 and Lambda), Microsoft Azure (Machine Learning)
 
 ### Certifications
-------------
  Microsoft Professional Program Certificate in Data Science.
  edX verified certificate for Querying with Transact-SQL.
  edX verified certificate for Analyzing and Visualizing Data with Power BI.
@@ -32,7 +31,7 @@
 *	Covered fundamentals of Data Science Essential, principles of Machine Learning and Statistics.
 *	Built data model in Power BI in star schema and built dashboards which contained pivot table, pivot charts, trending charts, pie charts based on the model.
 *	Built model using classification algorithm to predict if new customer will buy a bike and regression algorithm to find average monthly income spent of new customer from data collected by Adventure Works Cycles company using Azure ML and Cortana Intelligence suite.
----------------------------------------
+
 **Orora Design Technologies, Bellevue (Dec 2014 – Jan 2016)**
 **Position:** Application Engineer
 **Project:** Arana Behavioral Modeling Platform
