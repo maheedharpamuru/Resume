@@ -19,27 +19,28 @@
 **Cloud:** Amazon Web Services (S3, SNS, SQS, DynamoDB, Route53 and Lambda), Microsoft Azure (Machine Learning)
 
 ### Certifications
- * Microsoft Professional Program Certificate in Data Science.
- * edX verified certificate for Querying with Transact-SQL.
- * edX verified certificate for Analyzing and Visualizing Data with Power BI.
- * edX verified certificate for Programming with Python for Data Science.
- * edX verified certificate for Principles of Machine Learning.
- * edX verified certificate for Implementing Predictive Solutions with Spark in HDInsight.
+------------
+ Microsoft Professional Program Certificate in Data Science.
+ edX verified certificate for Querying with Transact-SQL.
+ edX verified certificate for Analyzing and Visualizing Data with Power BI.
+ edX verified certificate for Programming with Python for Data Science.
+ edX verified certificate for Principles of Machine Learning.
+ edX verified certificate for Implementing Predictive Solutions with Spark in HDInsight.
 ### Experience
 **Microsoft Professional Data Scientist Program, Redmond, WA (February 2017 – April 2017)**
 *	The coursework contained modules to develop skills in data manipulation using T-SQL and visualization using Excel, Power BI, and Python.
 *	Covered fundamentals of Data Science Essential, principles of Machine Learning and Statistics.
 *	Built data model in Power BI in star schema and built dashboards which contained pivot table, pivot charts, trending charts, pie charts based on the model.
 *	Built model using classification algorithm to predict if new customer will buy a bike and regression algorithm to find average monthly income spent of new customer from data collected by Adventure Works Cycles company using Azure ML and Cortana Intelligence suite.
+---------------------------------------
 **Orora Design Technologies, Bellevue (Dec 2014 – Jan 2016)**
 **Position:** Application Engineer
 **Project:** Arana Behavioral Modeling Platform
-Arana Platform automates the process of behavioural model creation, generation, optimization, and validation for analog, custom digital, memory and mixed-signal integrated circuits
+Arana Platform automates the process of behavioural model creation, generation, optimization, and validation for analog, custom digital, memory and mixed-signal integrated circuits.
 **Role**
 *	Developed GUI for process based work-flow model using JSP.
 *	Developed back-end service using Java.
 *	Arana platform reduces the skilled manpower by 75%.
-
 ### Personal Projects
 **Google PageRank Implementation in Java** [GitHub](https://github.com/mamanjusha/PageRank)
 *	Have implemented Google Page Rank in Java
