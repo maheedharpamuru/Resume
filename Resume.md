@@ -13,10 +13,10 @@
 ### Technical Skills
 **Languages:** Java, Perl, Python<br/>
 **Web Technologies:** JSP, HTML, XML, JavaScript, CSS</br>
-**Databases:** Azure SQL DB, SQL Server</br/>
-**IDEs:** Eclipse</br/>
-**Testing Frameworks:** TestNG</br/>
-**Cloud:** Amazon Web Services (S3, SNS, SQS, DynamoDB, Route53 and Lambda), Microsoft Azure (Machine Learning)</br/>
+**Databases:** Azure SQL DB, SQL Server<br/>
+**IDEs:** Eclipse<br/>
+**Testing Frameworks:** TestNG<br/>
+**Cloud:** Amazon Web Services (S3, SNS, SQS, DynamoDB, Route53 and Lambda), Microsoft Azure (Machine Learning)<br/>
 
 ### Certifications
  Microsoft Professional Program Certificate in Data Science<br/>
