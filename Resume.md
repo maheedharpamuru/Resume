@@ -11,20 +11,20 @@
 *	Experienced in successfully working on multiple concurrent projects in a fast-paced, deadline-driven environment. Experienced in large, cross team project.
 *	Quick learner, self motivated, great team player with excellent problem solving, troubleshooting skills.
 ### Technical Skills
-**Languages:** Java, Perl, Python
-**Web Technologies:** JSP, HTML, XML, JavaScript, CSS
-**Databases:** Azure SQL DB, SQL Server
-**IDEs:** Eclipse
-**Testing Frameworks:** TestNG
-**Cloud:** Amazon Web Services (S3, SNS, SQS, DynamoDB, Route53 and Lambda), Microsoft Azure (Machine Learning)
+**Languages:** Java, Perl, Python<br/>
+**Web Technologies:** JSP, HTML, XML, JavaScript, CSS</br>
+**Databases:** Azure SQL DB, SQL Server</br/>
+**IDEs:** Eclipse</br/>
+**Testing Frameworks:** TestNG</br/>
+**Cloud:** Amazon Web Services (S3, SNS, SQS, DynamoDB, Route53 and Lambda), Microsoft Azure (Machine Learning)</br/>
 
 ### Certifications
  Microsoft Professional Program Certificate in Data Science<br/>
- edX verified certificate for Querying with Transact-SQL__
- edX verified certificate for Analyzing and Visualizing Data with Power BI__
- edX verified certificate for Programming with Python for Data Science__
- edX verified certificate for Principles of Machine Learning__
- edX verified certificate for Implementing Predictive Solutions with Spark in HDInsight__
+ edX verified certificate for Querying with Transact-SQL<br/>
+ edX verified certificate for Analyzing and Visualizing Data with Power BI<br/>
+ edX verified certificate for Programming with Python for Data Science<br/>
+ edX verified certificate for Principles of Machine Learning<br/>
+ edX verified certificate for Implementing Predictive Solutions with Spark in HDInsight<br/>
 ### Experience
 **Microsoft Professional Data Scientist Program, Redmond, WA (February 2017 – April 2017)**
 *	The coursework contained modules to develop skills in data manipulation using T-SQL and visualization using Excel, Power BI, and Python.
@@ -33,9 +33,9 @@
 *	Built model using classification algorithm to predict if new customer will buy a bike and regression algorithm to find average monthly income spent of new customer from data collected by Adventure Works Cycles company using Azure ML and Cortana Intelligence suite.
 
 **Orora Design Technologies, Bellevue (Dec 2014 – Jan 2016)**
-**Position:** Application Engineer
-**Project:** Arana Behavioral Modeling Platform
-Arana Platform automates the process of behavioural model creation, generation, optimization, and validation for analog, custom digital, memory and mixed-signal integrated circuits.
+**Position:** Application Engineer<br/>
+**Project:** Arana Behavioral Modeling Platform<br/>
+Arana Platform automates the process of behavioural model creation, generation, optimization, and validation for analog, custom digital, memory and mixed-signal integrated circuits<br/>
 **Role**
 *	Developed GUI for process based work-flow model using JSP.
 *	Developed back-end service using Java.
