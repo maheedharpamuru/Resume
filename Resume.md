@@ -37,7 +37,6 @@
 **Project:** Arana Behavioral Modeling Platform<br/>
 Arana Platform automates the process of behavioural model creation, generation, optimization, and validation for analog, custom digital, memory and mixed-signal integrated circuits<br/>
 **Role**
-*	Developed GUI for process based work-flow model using JSP.
 *	Developed back-end service using Java.
 *	Arana platform reduces the skilled manpower by 75%.
 ### Personal Projects
@@ -50,8 +49,6 @@ Arana Platform automates the process of behavioural model creation, generation, 
 This service manages credit balance of customers, notifies customers monthly with balance, warns customer if credit limits particular amount.
 *	Used DynamoDB to store customer credit information, Lambda function to listen to customer updates through DynamoDB streams.
 *	Lambda function checks credit amount and notifies customer using SNS.
-Document Indexer and Retrieval engine on Wikipedia in Java Github
-*	The main goal of the project is to create a fast and efficient document indexer and retrieval engine for Wikipedia
 ### Patents
 * Apparatus, system and method for providing switching with a T-coil circuit.
 * Apparatus, method and system for asymmetric, full-duplex communication.
