@@ -46,7 +46,7 @@ Arana Platform automates the process of behavioural model creation, generation, 
 *	Used AWS Route53 as DNS provider and registered domain.
 *	Hosted static web content and S3 bucket and configured bucket to act as website.<br/>
 **Customer Credit Balance Management Service using AWS DynamoDB, SNS and Lambda**
-This service manages credit balance of customers, notifies customers monthly with balance, warns customer if credit limits particular amount.
+* This service manages credit balance of customers, notifies customers monthly with balance, warns customer if credit limits particular amount.
 *	Used DynamoDB to store customer credit information, Lambda function to listen to customer updates through DynamoDB streams.
 *	Lambda function checks credit amount and notifies customer using SNS.
 ### Patents
