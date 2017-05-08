@@ -1,6 +1,6 @@
 # Manjusha Manchikalapudi
 **Address:** 14412 NE, 42nd PL, Bellevue, WA – 98007<br/>
-**Email:** manchikalapudim@gmail.com<br/>
+**Email:** manchikalapudimanjusha@gmail.com<br/>
 **Phone:** 206-972-1564<br/>
 
 ### Summary
