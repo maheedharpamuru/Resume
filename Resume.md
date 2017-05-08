@@ -41,7 +41,7 @@ Arana Platform automates the process of behavioural model creation, generation, 
 *	Arana platform reduces the skilled manpower by 75%.
 ### Personal Projects
 **Google PageRank Implementation in Java** [GitHub](https://github.com/mamanjusha/PageRank)
-*	Have implemented Google Page Rank in Java
+*	Have implemented Google Page Rank in Java.<br/>
 **Static website on AWS using S3 and Route53**
 *	Used AWS Route53 as DNS provider and registered domain.
 *	Hosted static web content and S3 bucket and configured bucket to act as website.<br/>
