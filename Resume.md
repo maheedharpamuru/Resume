@@ -48,7 +48,7 @@ Arana Platform automates the process of behavioural model creation, generation, 
 **Project:** HDMI and MHL<br/>
 HDMI is an interface for transmitting uncompressed video data and compressed or uncompressed digital audio data from a HDMI-compliant source device, such as a display controller, to a compatible computer monitor, video projector, digital television, or digital audio device.<br/>
 **Role:** 
-* Designed different analog circuits in different technology nodes with different foundaries.<br/>
+* Designed different analog circuits in different technology nodes with different foundries.<br/>
 
 ### Personal Projects
 **Google PageRank Implementation in Java** [GitHub](https://github.com/mamanjusha/PageRank)
