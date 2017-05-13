@@ -6,17 +6,18 @@
 ### Summary
 * Experienced in Java, Python programming.
 *	Proficiency with algorithms and data structures.
-*	Experienced with software development using Amazon Web Services S3, SQS, SNS, DynamoDB, Route53 and Lambda.
-*	Have knowledge in Machine Learning and Big Data.
-*	Experienced in successfully working on multiple concurrent projects in a fast-paced, deadline-driven environment. Experienced in large, cross team project.
+*	Experienced with software development using Amazon Web Services S3, SQS, and SNS.
+*	Have knowledge in Machine Learning.
+*	Experienced in successfully working on multiple concurrent projects in a fast-paced, deadline-driven environment. Experienced in large, cross team projects.
 *	Quick learner, self motivated, great team player with excellent problem solving, troubleshooting skills.
 ### Technical Skills
-**Languages:** Java, Perl, Python<br/>
-**Web Technologies:** JSP, HTML, XML, JavaScript, CSS</br>
-**Databases:** Azure SQL DB, SQL Server<br/>
+**Languages:** Java, Python<br/>
+**Query Languages:** SQL, T-SQL<br/>
+**Cloud:** Amazon Web Services (S3, SNS, SQS), Microsoft Azure (Machine Learning)<br/>
+**Web Technologies:** HTML,CSS</br>
+**BI Tools:** Microsoft Power BI<br/>
 **IDEs:** Eclipse<br/>
 **Testing Frameworks:** TestNG<br/>
-**Cloud:** Amazon Web Services (S3, SNS, SQS, DynamoDB, Route53 and Lambda), Microsoft Azure (Machine Learning)<br/>
 
 ### Certifications
  Microsoft Professional Program Certificate in Data Science<br/>
@@ -32,19 +33,28 @@
 *	Built data model in Power BI in star schema and built dashboards which contained pivot table, pivot charts, trending charts, pie charts based on the model.
 *	Built model using classification algorithm to predict if new customer will buy a bike and regression algorithm to find average monthly income spent of new customer from data collected by Adventure Works Cycles company using Azure ML and Cortana Intelligence suite.
 
-**Orora Design Technologies, Bellevue (Dec 2014 – Jan 2016)**
+**Orora Design Technologies, Bellevue (Dec 2014 – Jan 2016)**  
 **Position:** Application Engineer<br/>
 **Project:** Arana Behavioral Modeling Platform<br/>
 Arana Platform automates the process of behavioural model creation, generation, optimization, and validation for analog, custom digital, memory and mixed-signal integrated circuits<br/>
 **Role**
-*	Developed back-end service using Java.
-*	Arana platform reduces the skilled manpower by 75%.
+*	Developed back-end service component using Java.
+* Designed different analog circuits and verified functionality using Arana platform.
+* Verified the  functionality of analog circuits using verilogA behavioural modelling.
+*	Arana platform reduces the skilled manpower by 75%.<br/>
+
+**Silicon Image Inc, India(Feb 2010-June 2014)**  
+**Position:** Sr Analog Mixed Signal Design Engineer<br/>
+**Project:** HDMI and MHL<br/>
+HDMI is an interface for transmitting uncompressed video data and compressed or uncompressed digital audio data from a HDMI-compliant source device, such as a display controller, to a compatible computer monitor, video projector, digital television, or digital audio device.<br/>
+**Role:** 
+* Designed different analog circuits in different technology nodes with different foundaries.<br/>
+
 ### Personal Projects
 **Google PageRank Implementation in Java** [GitHub](https://github.com/mamanjusha/PageRank)
 *	Have implemented Google Page Rank in Java.
 
-**Static website on AWS using S3 and Route53**
-*	Used AWS Route53 as DNS provider and registered domain.
+**Static website on AWS using S3**
 *	Hosted static web content and S3 bucket and configured bucket to act as website.
 
 **Customer Credit Balance Management Service using AWS DynamoDB, SNS and Lambda**
