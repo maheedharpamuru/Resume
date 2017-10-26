@@ -21,7 +21,7 @@
 **Testing Frameworks:** TestNG<br/>
 
 ### Experience
-**Microsoft, Redmond,WA (July 2017 - Present)**
+**Microsoft, Redmond (July 2017 - Present)**
 **Position:** Software Development Engineer Intern <br/>
 **Project:** ESIntellect<br/>
 * Goal of ESIntellect project is to analyze historical test results using different machine learning approaches, generate machine learning models, and develop service APIs for clients to calculate effectiveness of new builds using the generated model.
@@ -33,7 +33,9 @@
 **Project:**  Interview and Interviewee apps <br/>
 * Part of leap team developed interview and interviewee apps using sharepoint and MVC framework. Earlier, LEAP cohort interview scheduling is cumbersome approach for PM. This app helps to reduce the PM effort and smoothen the scheduling process more efficiently and organized. 
 
-**Microsoft Professional Data Scientist Program, Redmond, WA (February 2017 – April 2017)**
+**Technologies : C#, Microsoft Azure (Machine Learning), Microsoft Power BI, Azure Service Fabric, Share point, power apps**
+
+**Microsoft Professional Data Scientist Program, Redmond (February 2017 – April 2017)**
 *	The coursework contained modules to develop skills in data manipulation using T-SQL and visualization using Excel, Power BI, and Python.
 *	Covered fundamentals of Data Science Essential, principles of Machine Learning and Statistics.
 *	Built data model in Power BI in star schema and built dashboards which contained pivot table, pivot charts, trending charts, pie charts based on the model.
