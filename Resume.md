@@ -6,7 +6,7 @@
 ### Summary
 * Experienced in Java, C#, Python programming.
 *	Proficiency with algorithms and data structures.
-*	Experienced with software development using Amazon Web Services S3, SQS, and SNS,Azure cloud services.
+*	Experienced with software development using Azure cloud services, Amazon web services S3, SQS, and SNS.
 *	Expereinced in Machine Learning.
 *	Experienced in successfully working on multiple concurrent projects in a fast-paced, deadline-driven environment. Experienced in large, cross team projects.
 *	Quick learner, self motivated, great team player with excellent problem solving, troubleshooting skills.
