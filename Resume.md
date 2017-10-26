@@ -24,11 +24,12 @@
 **Microsoft, Redmond,WA (july 2017 - Present)**
 **Position:** Software Development Engineer Intern <br/>
 **Project:** ESIntellect<br/>
-* Team project: Analyzed test results generated every day on the huge variety of hardware that runs some variant of Windows (tables, servers, Xboxes, hololens, …).
+* Goal of ESIntellect project is to analyze historical test results using different machine learning approaches, generate machine learning models, and develop service APIs for clients to calculate effectiveness of new builds using the generated model.
+* Analyzed test results generated every day on the huge variety of hardware that runs some variant of Windows (tables, servers, Xboxes, hololens, …)
 * Identifing the user patterns and critical features from  historical data using latest Azure ML technology.
 * Developed prototype service which enables the customers to makes decisions more clearer/cleaner and can eventually help auto ri when  signals are all clear. 
 * This service helps to reduce the unreliable test cases, failures produces (aka noise), reduces machine hours wastage.
-* Group project: Developed interview and interviee apps using sharepoint and MVC framework. Earlier, LEAP cohort interview scheduling is cumbersome approach for PM. This app helps to reduce the PM effort and smoothen the scheduling process more efficiently and organized. 
+* During LEAP training, Developed interview and interviewee apps using sharepoint and MVC framework. Earlier, LEAP cohort interview scheduling is cumbersome approach for PM. This app helps to reduce the PM effort and smoothen the scheduling process more efficiently and organized. 
 
 **Microsoft Professional Data Scientist Program, Redmond, WA (February 2017 – April 2017)**
 *	The coursework contained modules to develop skills in data manipulation using T-SQL and visualization using Excel, Power BI, and Python.
