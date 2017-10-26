@@ -4,29 +4,30 @@
 **Phone:** 206-972-1564<br/>
 
 ### Summary
-* Experienced in Java, Python programming.
+* Experienced in Java,C#,Python programming.
 *	Proficiency with algorithms and data structures.
-*	Experienced with software development using Amazon Web Services S3, SQS, and SNS.
+*	Experienced with software development using Amazon Web Services S3, SQS, and SNS,Azure cloud services.
 *	Have knowledge in Machine Learning.
 *	Experienced in successfully working on multiple concurrent projects in a fast-paced, deadline-driven environment. Experienced in large, cross team projects.
 *	Quick learner, self motivated, great team player with excellent problem solving, troubleshooting skills.
 ### Technical Skills
-**Languages:** Java, Python<br/>
-**Query Languages:** SQL, T-SQL<br/>
-**Cloud:** Amazon Web Services (S3, SNS, SQS), Microsoft Azure (Machine Learning)<br/>
+**Languages:** Java, C#,Python<br/>
+**Query Languages:** SQL, Kusto,T-SQL<br/>
+**Cloud:** Amazon Web Services (S3, SNS, SQS), Microsoft Azure (Machine Learning), Azure Service Fabric <br/>
 **Web Technologies:** HTML,CSS</br>
 **BI Tools:** Microsoft Power BI<br/>
-**IDEs:** Eclipse<br/>
+**IDEs:** Eclipse,Visual Studio<br/>
 **Testing Frameworks:** TestNG<br/>
 
-### Certifications
- Microsoft Professional Program Certificate in Data Science<br/>
- edX verified certificate for Querying with Transact-SQL<br/>
- edX verified certificate for Analyzing and Visualizing Data with Power BI<br/>
- edX verified certificate for Programming with Python for Data Science<br/>
- edX verified certificate for Principles of Machine Learning<br/>
- edX verified certificate for Implementing Predictive Solutions with Spark in HDInsight<br/>
 ### Experience
+**Microsoft, Redomd(july 2017 - Present)**
+**Position:** Software Development Intern<br/>
+**Project:** ESIntellect<br/>
+* Analyzed test results generated every day on the huge variety of hardware that runs some variant of Windows (tables, servers, Xboxes, hololens, …).
+* Identifing the user patterns and critical features from past historical data using latest Azure ML technology.
+* Developed prototype service which enables the customers to makes decisions more clearer/cleaner and can eventually help auto ri when  signals are all clear. 
+* This service eventually helps to reduce the unreliable test cases, failures produces (aka noise), reduces machine hours wastage.
+
 **Microsoft Professional Data Scientist Program, Redmond, WA (February 2017 – April 2017)**
 *	The coursework contained modules to develop skills in data manipulation using T-SQL and visualization using Excel, Power BI, and Python.
 *	Covered fundamentals of Data Science Essential, principles of Machine Learning and Statistics.
@@ -50,17 +51,14 @@ HDMI is an interface for transmitting uncompressed video data and compressed or 
 **Role:** 
 * Designed different analog circuits in different technology nodes with different foundries.<br/>
 
-### Personal Projects
-**Google PageRank Implementation in Java** [GitHub](https://github.com/mamanjusha/PageRank)
-*	Have implemented Google Page Rank in Java.
+### Certifications
+ Microsoft Professional Program Certificate in Data Science<br/>
+ edX verified certificate for Querying with Transact-SQL<br/>
+ edX verified certificate for Analyzing and Visualizing Data with Power BI<br/>
+ edX verified certificate for Programming with Python for Data Science<br/>
+ edX verified certificate for Principles of Machine Learning<br/>
+ edX verified certificate for Implementing Predictive Solutions with Spark in HDInsight<br/>
 
-**Static website on AWS using S3**
-*	Hosted static web content and S3 bucket and configured bucket to act as website.
-
-**Customer Credit Balance Management Service using AWS DynamoDB, SNS and Lambda**
-* This service manages credit balance of customers, notifies customers monthly with balance, warns customer if credit limits particular amount.
-*	Used DynamoDB to store customer credit information, Lambda function to listen to customer updates through DynamoDB streams.
-*	Lambda function checks credit amount and notifies customer using SNS.
 ### Patents
 * Apparatus, system and method for providing switching with a T-coil circuit.
 * Apparatus, method and system for asymmetric, full-duplex communication.
