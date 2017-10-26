@@ -10,23 +10,25 @@
 *	Have knowledge in Machine Learning.
 *	Experienced in successfully working on multiple concurrent projects in a fast-paced, deadline-driven environment. Experienced in large, cross team projects.
 *	Quick learner, self motivated, great team player with excellent problem solving, troubleshooting skills.
+
 ### Technical Skills
 **Languages:** Java, C#,Python<br/>
 **Query Languages:** SQL, Kusto,T-SQL<br/>
-**Cloud:** Amazon Web Services (S3, SNS, SQS), Microsoft Azure (Machine Learning), Azure Service Fabric <br/>
+**Cloud:** Microsoft Azure (Machine Learning), Azure Service Fabric,Amazon Web Services (S3, SNS, SQS)<br/>
 **Web Technologies:** HTML,CSS</br>
 **BI Tools:** Microsoft Power BI<br/>
 **IDEs:** Eclipse,Visual Studio<br/>
 **Testing Frameworks:** TestNG<br/>
 
 ### Experience
-**Microsoft, Redmond(july 2017 - Present)**
-**Position:** Software Development Intern<br/>
+**Microsoft, Redmond,WA (july 2017 - Present)**
+**Position:** Software Development Engineer Intern <br/>
 **Project:** ESIntellect<br/>
-* Analyzed test results generated every day on the huge variety of hardware that runs some variant of Windows (tables, servers, Xboxes, hololens, …).
+* Team project: Analyzed test results generated every day on the huge variety of hardware that runs some variant of Windows (tables, servers, Xboxes, hololens, …).
 * Identifing the user patterns and critical features from  historical data using latest Azure ML technology.
 * Developed prototype service which enables the customers to makes decisions more clearer/cleaner and can eventually help auto ri when  signals are all clear. 
-* This service eventually helps to reduce the unreliable test cases, failures produces (aka noise), reduces machine hours wastage.
+* This service helps to reduce the unreliable test cases, failures produces (aka noise), reduces machine hours wastage.
+* Group project: Developed interview and interviee apps using sharepoint and MVC framework. Earlier, LEAP cohort interview scheduling is cumbersome approach for PM. This app helps to reduce the PM effort and smoothen the scheduling process more efficiently and organized. 
 
 **Microsoft Professional Data Scientist Program, Redmond, WA (February 2017 – April 2017)**
 *	The coursework contained modules to develop skills in data manipulation using T-SQL and visualization using Excel, Power BI, and Python.
@@ -62,6 +64,6 @@ HDMI is an interface for transmitting uncompressed video data and compressed or 
 ### Patents
 * Apparatus, system and method for providing switching with a T-coil circuit.
 * Apparatus, method and system for asymmetric, full-duplex communication.
+
 ### Education
 Bachelor of Electrical Engineering, Jawaharlal Nehru Technological University, India.
-
