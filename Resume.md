@@ -4,7 +4,7 @@
 **Phone:** 206-972-1564<br/>
 
 ### Summary
-* Experienced in Java,C#,Python programming.
+* Experienced in Java, C#, Python programming.
 *	Proficiency with algorithms and data structures.
 *	Experienced with software development using Amazon Web Services S3, SQS, and SNS,Azure cloud services.
 *	Have knowledge in Machine Learning.
@@ -20,11 +20,11 @@
 **Testing Frameworks:** TestNG<br/>
 
 ### Experience
-**Microsoft, Redomd(july 2017 - Present)**
+**Microsoft, Redmond(july 2017 - Present)**
 **Position:** Software Development Intern<br/>
 **Project:** ESIntellect<br/>
 * Analyzed test results generated every day on the huge variety of hardware that runs some variant of Windows (tables, servers, Xboxes, hololens, …).
-* Identifing the user patterns and critical features from past historical data using latest Azure ML technology.
+* Identifing the user patterns and critical features from  historical data using latest Azure ML technology.
 * Developed prototype service which enables the customers to makes decisions more clearer/cleaner and can eventually help auto ri when  signals are all clear. 
 * This service eventually helps to reduce the unreliable test cases, failures produces (aka noise), reduces machine hours wastage.
 
