@@ -25,9 +25,9 @@
 **Position:** Software Development Engineer Intern <br/>
 **Project:** ESIntellect<br/>
 * Goal of ESIntellect project is to analyze historical test results using different machine learning approaches, generate machine learning models, and develop service APIs for clients to calculate effectiveness of new builds using the generated model.
-* Analyzed test results generated every day on the huge variety of hardware that runs some variant of Windows (tables, servers, Xboxes, hololens, …)
-* Identifing the user patterns and critical features from  historical data using latest Azure ML technology.
-* Developed prototype service which enables the customers to makes decisions more clearer/cleaner and can eventually help auto ri when  signals are all clear. 
+* Analyzed test results generated every day on the huge variety of hardware that runs some variant of Windows (Tablets, Servers, Xboxes, hololens, …)
+* Identified user patterns from  historical data using different clustering and classfication ML algorithms, analyzed accuracy of each model and fine tuned parameters for better performance.
+* Designed and Developed backend prototype service which enables the customers to makes decisions more clearer/cleaner and can eventually help auto ri when  signals are all clear. 
 * This service helps to reduce the unreliable test cases, failures produces (aka noise), reduces machine hours wastage.
 * During LEAP training, Developed interview and interviewee apps using sharepoint and MVC framework. Earlier, LEAP cohort interview scheduling is cumbersome approach for PM. This app helps to reduce the PM effort and smoothen the scheduling process more efficiently and organized. 
 
