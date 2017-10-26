@@ -30,7 +30,7 @@
 * Designed and Developed backend prototype service which enables the customers to makes decisions more clearer/cleaner and can eventually help auto ri when  signals are all clear. 
 * This service helps to reduce the unreliable test cases, failures produces (aka noise), reduces machine hours wastage.
 
-**project:**  Interview and Interviewee apps <br/>
+**Project:**  Interview and Interviewee apps <br/>
 * Part of leap team developed interview and interviewee apps using sharepoint and MVC framework. Earlier, LEAP cohort interview scheduling is cumbersome approach for PM. This app helps to reduce the PM effort and smoothen the scheduling process more efficiently and organized. 
 
 **Microsoft Professional Data Scientist Program, Redmond, WA (February 2017 – April 2017)**
