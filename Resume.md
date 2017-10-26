@@ -7,7 +7,7 @@
 * Experienced in Java, C#, Python programming.
 *	Proficiency with algorithms and data structures.
 *	Experienced with software development using Amazon Web Services S3, SQS, and SNS,Azure cloud services.
-*	Have knowledge in Machine Learning.
+*	Expereinced in Machine Learning.
 *	Experienced in successfully working on multiple concurrent projects in a fast-paced, deadline-driven environment. Experienced in large, cross team projects.
 *	Quick learner, self motivated, great team player with excellent problem solving, troubleshooting skills.
 
@@ -21,7 +21,7 @@
 **Testing Frameworks:** TestNG<br/>
 
 ### Experience
-**Microsoft, Redmond,WA (july 2017 - Present)**
+**Microsoft, Redmond,WA (July 2017 - Present)**
 **Position:** Software Development Engineer Intern <br/>
 **Project:** ESIntellect<br/>
 * Goal of ESIntellect project is to analyze historical test results using different machine learning approaches, generate machine learning models, and develop service APIs for clients to calculate effectiveness of new builds using the generated model.
@@ -29,7 +29,9 @@
 * Identified user patterns from  historical data using different clustering and classfication ML algorithms, analyzed accuracy of each model and fine tuned parameters for better performance.
 * Designed and Developed backend prototype service which enables the customers to makes decisions more clearer/cleaner and can eventually help auto ri when  signals are all clear. 
 * This service helps to reduce the unreliable test cases, failures produces (aka noise), reduces machine hours wastage.
-* During LEAP training, Developed interview and interviewee apps using sharepoint and MVC framework. Earlier, LEAP cohort interview scheduling is cumbersome approach for PM. This app helps to reduce the PM effort and smoothen the scheduling process more efficiently and organized. 
+
+**project:**  Interview and Interviewee apps <br/>
+* Part of leap team developed interview and interviewee apps using sharepoint and MVC framework. Earlier, LEAP cohort interview scheduling is cumbersome approach for PM. This app helps to reduce the PM effort and smoothen the scheduling process more efficiently and organized. 
 
 **Microsoft Professional Data Scientist Program, Redmond, WA (February 2017 – April 2017)**
 *	The coursework contained modules to develop skills in data manipulation using T-SQL and visualization using Excel, Power BI, and Python.
